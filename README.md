@@ -59,4 +59,9 @@ This repository contains the complete practical coursework submissions for **Ass
 
 ## 📄 Academic Deliverables
 
-Each assignment folder contains a self-contained, formal `report.pdf` compiled for evaluation, embedding complete data tables, visual graphs, error breakdowns, and practical conclusions.
+Each assignment folder contains a self-contained, formal compiled PDF report for evaluation, embedding complete data tables, visual graphs, error breakdowns, and practical conclusions:
+
+- **Assignment 3 Report**: [`Assignment-03-23EG107E19.pdf`](./Assignment-3-Prompt-Engineering/Assignment-03-23EG107E19.pdf)
+- **Assignment 4 Report**: [`Assignment-04-23EG107E19.pdf`](./Assignment-4-AI-Coding-Workflow/Assignment-04-23EG107E19.pdf)
+- **Assignment 5 Report**: [`Assignment-05-23EG107E19.pdf`](./Assignment-5-Document-Extraction/Assignment-05-23EG107E19.pdf)
+

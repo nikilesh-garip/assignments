@@ -1,0 +1,8 @@
+*** TAX INVOICE *** (Faded Scan)
+Vendor: Beacon Media Network
+GST: GSTIN36769987Z1
+Invoice Ref: INV-2026030
+Date: 2026-02-19
+Subtotal: INR 975.39
+GST @18%: INR 175.57
+Total Amount Due: INR 1150.96

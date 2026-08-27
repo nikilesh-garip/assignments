@@ -1,0 +1,11 @@
+task_id,task_name,category,unassisted_mins,gen_mins,review_mins,correct_mins,total_assisted_mins,time_saved_mins,net_productivity_pct,lines_generated,lines_kept,lines_modified,acceptance_rate_pct
+TASK_01,user_validator,Boilerplate,25,2.0,4.0,2.0,8.0,17.0,68.0,28,25,3,89.3
+TASK_02,csv_to_json,Boilerplate,22,2.0,3.0,1.0,6.0,16.0,72.7,24,22,2,91.7
+TASK_03,palindrome_finder,Algorithms,30,3.0,8.0,5.0,16.0,14.0,46.7,32,24,8,75.0
+TASK_04,bank_transactions,Algorithms,28,2.0,6.0,3.0,11.0,17.0,60.7,22,18,4,81.8
+TASK_05,discount_refactor,Refactoring,35,3.0,9.0,6.0,18.0,17.0,48.6,25,18,7,72.0
+TASK_06,string_normalizer,Refactoring,20,2.0,4.0,2.0,8.0,12.0,60.0,20,17,3,85.0
+TASK_07,shopping_cart_tests,Test Writing,32,3.0,6.0,2.0,11.0,21.0,65.6,30,27,3,90.0
+TASK_08,binary_search_fix,Debugging,18,3.0,8.0,7.0,18.0,0.0,0.0,18,10,8,55.6
+TASK_09,mutable_default_fix,Debugging,15,2.0,7.0,6.0,15.0,0.0,0.0,16,9,7,56.3
+TASK_10,weather_api_parser,Integration,26,2.0,5.0,3.0,10.0,16.0,61.5,26,22,4,84.6

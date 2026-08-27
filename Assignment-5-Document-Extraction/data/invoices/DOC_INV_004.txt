@@ -1,0 +1,12 @@
+TAX INVOICE
+--------------------------------------------
+Vendor: Global Logistics Corp
+Tax ID (GSTIN): GSTIN36850800Z1
+Invoice Number: INV-2026004
+Date of Issue: 2026-01-27
+--------------------------------------------
+Subtotal: $2576.24
+Tax Amount (18%): $463.72
+Total Payable: $3039.96
+--------------------------------------------
+Thank you for your business.

@@ -1,0 +1,9 @@
+------------------------------------
+NATIONAL RESIDENT IDENTITY CARD
+------------------------------------
+ID Number     : IDN-7700016
+Full Name     : Rahul Sharma
+Date of Birth : 1977-08-12
+Date of Issue : 2025-07-28
+Postal Code   : 560001
+------------------------------------

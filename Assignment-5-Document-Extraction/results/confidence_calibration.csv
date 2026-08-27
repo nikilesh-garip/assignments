@@ -1,0 +1,5 @@
+Confidence Interval,Mean Assigned Confidence,Empirical True Accuracy (%),Predictions Count,Routing Destination
+0.00 – 0.50 (Low),0.3,0.0,3,Human Review Queue
+0.50 – 0.70 (Medium-Low),0.684,100.0,56,Human Review Queue
+0.70 – 0.85 (Medium-High),0.729,100.0,85,Auto-Accept
+0.85 – 1.00 (High),0.955,100.0,396,Auto-Accept

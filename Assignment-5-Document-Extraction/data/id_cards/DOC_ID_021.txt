@@ -1,0 +1,9 @@
+------------------------------------
+NATIONAL RESIDENT IDENTITY CARD
+------------------------------------
+ID Number     : IDN-7700021
+Full Name     : Amitabh Sen
+Date of Birth : 1994-09-25
+Date of Issue : 2021-05-24
+Postal Code   : 500081
+------------------------------------

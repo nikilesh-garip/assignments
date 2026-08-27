@@ -1,0 +1,6 @@
+HEALTH CLAIM REIMBURSEMENT FORM [Skewed Scan]
+Claim No: CLM-50026 | Policy: POL-800026
+Patient: Amitabh Sen
+Date of Hospitalization: 2026-01-27
+ICD Diagnosis Code: I10
+Total Amount Claimed: $14010.46

@@ -1,0 +1,19 @@
+Document Type,Field Name,Clean Scan Accuracy (%),Noisy Scan Accuracy (%),Overall Accuracy (%),Mean Confidence Score,Sample Count (n)
+ID_CARD,date_of_birth,100.0,100.0,100.0,0.909,30
+ID_CARD,full_name,100.0,100.0,100.0,0.909,30
+ID_CARD,id_number,100.0,100.0,100.0,0.909,30
+ID_CARD,issue_date,100.0,100.0,100.0,0.909,30
+ID_CARD,postal_code,100.0,100.0,100.0,0.909,30
+INSURANCE_CLAIM,claim_id,100.0,100.0,100.0,0.883,30
+INSURANCE_CLAIM,claimed_amount,100.0,100.0,100.0,0.883,30
+INSURANCE_CLAIM,diagnosis_code,100.0,100.0,100.0,0.803,30
+INSURANCE_CLAIM,incident_date,100.0,100.0,100.0,0.883,30
+INSURANCE_CLAIM,patient_name,100.0,100.0,100.0,0.883,30
+INSURANCE_CLAIM,policy_number,100.0,100.0,100.0,0.883,30
+INVOICE,invoice_date,100.0,100.0,100.0,0.896,30
+INVOICE,invoice_number,100.0,100.0,100.0,0.896,30
+INVOICE,subtotal,100.0,87.5,96.7,0.882,30
+INVOICE,tax_amount,100.0,87.5,96.7,0.882,30
+INVOICE,tax_id,100.0,100.0,100.0,0.883,30
+INVOICE,total_amount,100.0,87.5,96.7,0.882,30
+INVOICE,vendor_name,100.0,100.0,100.0,0.896,30

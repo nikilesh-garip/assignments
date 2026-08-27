@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50013
+Policy Number      : POL-800013
+Patient Name       : Rahul Sharma
+Incident/Care Date : 2026-02-17
+Primary Diagnosis  : M54.5
+Claimed Amount     : $6393.00
+============================================

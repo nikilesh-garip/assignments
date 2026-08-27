@@ -1,0 +1,12 @@
+TAX INVOICE
+--------------------------------------------
+Vendor: Metro Stationery Supplies
+Tax ID (GSTIN): GSTIN36479580Z1
+Invoice Number: INV-2026022
+Date of Issue: 2026-07-28
+--------------------------------------------
+Subtotal: $2740.99
+Tax Amount (18%): $493.38
+Total Payable: $3234.37
+--------------------------------------------
+Thank you for your business.

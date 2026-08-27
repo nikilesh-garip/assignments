@@ -1,0 +1,9 @@
+------------------------------------
+NATIONAL RESIDENT IDENTITY CARD
+------------------------------------
+ID Number     : IDN-7700010
+Full Name     : Ananya Reddy
+Date of Birth : 1993-05-26
+Date of Issue : 2022-11-23
+Postal Code   : 400001
+------------------------------------

@@ -1,0 +1,6 @@
+REPUBLIC IDENTIFICATION CARD (Low Contrast)
+No: IDN-7700025
+Name: Rahul Sharma
+DOB: 1997-10-22
+Issued: 2025-01-21
+Pin: 400001

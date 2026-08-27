@@ -1,0 +1,8 @@
+*** TAX INVOICE *** (Faded Scan)
+Vendor: Metro Stationery Supplies
+GST: GSTIN36500156Z1
+Invoice Ref: INV-2026025
+Date: 2026-07-12
+Subtotal: INR 3981.19
+GST @18%: INR 716.61
+Total Amount Due: INR 4697.8

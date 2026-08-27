@@ -1,0 +1,6 @@
+HEALTH CLAIM REIMBURSEMENT FORM [Skewed Scan]
+Claim No: CLM-50029 | Policy: POL-800029
+Patient: Pooja Patel
+Date of Hospitalization: 2026-05-26
+ICD Diagnosis Code: S83.5
+Total Amount Claimed: $4141.26

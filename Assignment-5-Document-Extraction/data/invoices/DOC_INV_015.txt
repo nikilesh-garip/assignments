@@ -1,0 +1,12 @@
+TAX INVOICE
+--------------------------------------------
+Vendor: Zenith Power Solutions
+Tax ID (GSTIN): GSTIN36765822Z1
+Invoice Number: INV-2026015
+Date of Issue: 2026-05-12
+--------------------------------------------
+Subtotal: $1126.58
+Tax Amount (18%): $202.78
+Total Payable: $1329.36
+--------------------------------------------
+Thank you for your business.

@@ -1,0 +1,9 @@
+------------------------------------
+NATIONAL RESIDENT IDENTITY CARD
+------------------------------------
+ID Number     : IDN-7700003
+Full Name     : Vikram Malhotra
+Date of Birth : 1995-12-13
+Date of Issue : 2024-01-25
+Postal Code   : 560001
+------------------------------------

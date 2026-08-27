@@ -1,0 +1,6 @@
+HEALTH CLAIM REIMBURSEMENT FORM [Skewed Scan]
+Claim No: CLM-50023 | Policy: POL-800023
+Patient: Ananya Reddy
+Date of Hospitalization: 2026-01-24
+ICD Diagnosis Code: K21.0
+Total Amount Claimed: $1562.28

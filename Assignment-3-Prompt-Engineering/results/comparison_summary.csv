@@ -1,0 +1,5 @@
+Prompt Version,Overall Quality Score (0-5),Std Dev (Consistency),Correctness (0-5),Relevance (0-5),Completeness (0-5),Tone & Empathy (0-5),Standard Cases Mean,Edge Cases Mean,Format Compliance Rate (%),Format Failure Rate (%)
+v1_zero_shot,3.52,0.54,3.54,3.58,3.31,3.65,3.9,3.0,98.1,1.9
+v2_few_shot,4.5,0.16,4.45,4.49,4.35,4.72,4.62,4.34,100.0,0.0
+v3_chain_of_thought,4.75,0.04,4.77,4.77,4.7,4.76,4.78,4.71,100.0,0.0
+v4_structured_template,4.8,0.04,4.86,4.76,4.9,4.66,4.83,4.75,100.0,0.0

@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50019
+Policy Number      : POL-800019
+Patient Name       : Ananya Reddy
+Incident/Care Date : 2026-02-17
+Primary Diagnosis  : R07.9
+Claimed Amount     : $2238.36
+============================================

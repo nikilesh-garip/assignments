@@ -1,0 +1,9 @@
+------------------------------------
+NATIONAL RESIDENT IDENTITY CARD
+------------------------------------
+ID Number     : IDN-7700017
+Full Name     : Suresh Kumar
+Date of Birth : 1985-07-17
+Date of Issue : 2020-11-10
+Postal Code   : 500081
+------------------------------------

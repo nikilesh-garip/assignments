@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50018
+Policy Number      : POL-800018
+Patient Name       : Kavita Rao
+Incident/Care Date : 2026-03-11
+Primary Diagnosis  : K21.0
+Claimed Amount     : $12844.47
+============================================

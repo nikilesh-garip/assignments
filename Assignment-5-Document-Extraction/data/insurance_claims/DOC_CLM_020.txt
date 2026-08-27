@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50020
+Policy Number      : POL-800020
+Patient Name       : Pooja Patel
+Incident/Care Date : 2026-01-12
+Primary Diagnosis  : R07.9
+Claimed Amount     : $10031.91
+============================================

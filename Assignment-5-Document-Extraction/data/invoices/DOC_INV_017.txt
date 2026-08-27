@@ -1,0 +1,12 @@
+TAX INVOICE
+--------------------------------------------
+Vendor: Beacon Media Network
+Tax ID (GSTIN): GSTIN36905635Z1
+Invoice Number: INV-2026017
+Date of Issue: 2026-04-20
+--------------------------------------------
+Subtotal: $1422.74
+Tax Amount (18%): $256.09
+Total Payable: $1678.83
+--------------------------------------------
+Thank you for your business.

@@ -1,0 +1,6 @@
+HEALTH CLAIM REIMBURSEMENT FORM [Skewed Scan]
+Claim No: CLM-50028 | Policy: POL-800028
+Patient: Vikram Malhotra
+Date of Hospitalization: 2026-05-19
+ICD Diagnosis Code: E11.9
+Total Amount Claimed: $10905.38

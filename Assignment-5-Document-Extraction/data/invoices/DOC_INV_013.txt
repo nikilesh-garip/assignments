@@ -1,0 +1,12 @@
+TAX INVOICE
+--------------------------------------------
+Vendor: Apex Hardware Ltd
+Tax ID (GSTIN): GSTIN36575435Z1
+Invoice Number: INV-2026013
+Date of Issue: 2026-02-22
+--------------------------------------------
+Subtotal: $1240.68
+Tax Amount (18%): $223.32
+Total Payable: $1464.00
+--------------------------------------------
+Thank you for your business.

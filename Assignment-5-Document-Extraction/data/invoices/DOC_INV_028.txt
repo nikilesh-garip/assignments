@@ -1,0 +1,8 @@
+*** TAX INVOICE *** (Faded Scan)
+Vendor: Apex Hardware Ltd
+GST: GSTIN36555884Z1
+Invoice Ref: INV-2026028
+Date: 2026-06-13
+Subtotal: INR 3779.3
+GST @18%: INR 680.27
+Total Amount Due: INR 4459.57

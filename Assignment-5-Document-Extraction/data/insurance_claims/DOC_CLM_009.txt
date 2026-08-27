@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50009
+Policy Number      : POL-800009
+Patient Name       : Suresh Kumar
+Incident/Care Date : 2026-08-11
+Primary Diagnosis  : K21.0
+Claimed Amount     : $1378.88
+============================================

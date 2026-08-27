@@ -1,0 +1,12 @@
+TAX INVOICE
+--------------------------------------------
+Vendor: DataCore Systems
+Tax ID (GSTIN): GSTIN36543143Z1
+Invoice Number: INV-2026006
+Date of Issue: 2026-01-15
+--------------------------------------------
+Subtotal: $1463.13
+Tax Amount (18%): $263.36
+Total Payable: $1726.49
+--------------------------------------------
+Thank you for your business.

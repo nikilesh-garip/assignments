@@ -1,0 +1,12 @@
+TAX INVOICE
+--------------------------------------------
+Vendor: Acme Cloud Services
+Tax ID (GSTIN): GSTIN36719176Z1
+Invoice Number: INV-2026002
+Date of Issue: 2026-02-27
+--------------------------------------------
+Subtotal: $783.74
+Tax Amount (18%): $141.07
+Total Payable: $924.81
+--------------------------------------------
+Thank you for your business.

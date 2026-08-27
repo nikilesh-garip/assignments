@@ -1,0 +1,8 @@
+*** TAX INVOICE *** (Faded Scan)
+Vendor: Zenith Power Solutions
+GST: GSTIN36898975Z1
+Invoice Ref: INV-2026029
+Date: 2026-01-18
+Subtotal: INR 874.97
+GST @18%: INR 157.49
+Total Amount Due: INR 1032.46

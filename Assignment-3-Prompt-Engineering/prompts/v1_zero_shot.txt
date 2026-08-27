@@ -1,0 +1,7 @@
+You are a customer support agent. 
+Read the following customer message and write a helpful, professional response to resolve their issue.
+
+Customer Message:
+{{CUSTOMER_INPUT}}
+
+Response:

@@ -1,0 +1,8 @@
+*** TAX INVOICE *** (Faded Scan)
+Vendor: DataCore Systems
+GST: GSTIN36663054Z1
+Invoice Ref: INV-2026027
+Date: 2026-01-13
+Subtotal: INR 4317.82
+GST @18%: INR 777.21
+Total Amount Due: INR 5095.03

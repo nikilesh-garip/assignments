@@ -1,0 +1,6 @@
+HEALTH CLAIM REIMBURSEMENT FORM [Skewed Scan]
+Claim No: CLM-50030 | Policy: POL-800030
+Patient: Rahul Sharma
+Date of Hospitalization: 2026-02-23
+ICD Diagnosis Code: I10
+Total Amount Claimed: $1139.26

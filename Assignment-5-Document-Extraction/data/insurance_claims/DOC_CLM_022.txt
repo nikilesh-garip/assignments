@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50022
+Policy Number      : POL-800022
+Patient Name       : Suresh Kumar
+Incident/Care Date : 2026-03-19
+Primary Diagnosis  : S83.5
+Claimed Amount     : $5084.57
+============================================

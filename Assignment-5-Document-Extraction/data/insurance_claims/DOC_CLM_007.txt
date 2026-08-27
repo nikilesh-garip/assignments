@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50007
+Policy Number      : POL-800007
+Patient Name       : Vikram Malhotra
+Incident/Care Date : 2026-08-17
+Primary Diagnosis  : S83.5
+Claimed Amount     : $12208.71
+============================================

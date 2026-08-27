@@ -1,0 +1,10 @@
+============================================
+HEALTH INSURANCE CLAIM FORM
+============================================
+Claim Tracking ID : CLM-50005
+Policy Number      : POL-800005
+Patient Name       : Rahul Sharma
+Incident/Care Date : 2026-04-12
+Primary Diagnosis  : J06.9
+Claimed Amount     : $12964.71
+============================================

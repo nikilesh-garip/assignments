@@ -1,0 +1,9 @@
+------------------------------------
+NATIONAL RESIDENT IDENTITY CARD
+------------------------------------
+ID Number     : IDN-7700004
+Full Name     : Pooja Patel
+Date of Birth : 1996-08-21
+Date of Issue : 2022-04-17
+Postal Code   : 500081
+------------------------------------
